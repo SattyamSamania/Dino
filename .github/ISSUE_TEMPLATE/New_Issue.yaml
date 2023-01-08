@@ -1,0 +1,12 @@
+name: Feature Request
+description: Request/Suggest any feature you think is missing
+title: "Title: "
+labels: "Feature Request"
+body:
+  - type: textarea #description
+    attributes:
+      label: Describe your issue here?
+      description: Give your answer along with your Full Name.
+      placeholder: Ex. Fill the info here
+    validations:
+      required: true
